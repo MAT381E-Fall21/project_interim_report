@@ -26,6 +26,6 @@ Project interim report should be written in `R Markdown` and `.pdf` output shoul
 1) You should download `R Project` on `GitHub` to your local computer, do the changes as needed, delete all the files you have not used to produce your proposal, then render the `.Rmd` file to `.pdf` and finally commit and push all the required files (including `.Rmd` files) by
 December 20, 2021  18:00 via [GitHub Classroom of MAT381E_Fall21 organization](https://github.com/MAT381E_Fall21).
 2) Project interim reports will not be accepted after deadline. 
-3) I will send a group-based GitHub classroom link now. This implies that I can explicitly see how your project evolves over time and who contributes what part of the project. For that reason, commit and push work frequently!..
+3) I will send a group-based GitHub classroom link now. This implies that I can explicitly see how your project evolves over time and who contributes what part of the project. For that reason, commit and push your work frequently!..
 
 
