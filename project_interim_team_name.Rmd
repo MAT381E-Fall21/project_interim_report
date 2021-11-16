@@ -1,0 +1,31 @@
+---
+title: "Project Title"
+author: "Team Name"
+date: "16/11/2021"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+Project interim report should be written in `R Markdown` and `.pdf` output should be at most **15-pages long**. All team members should be involved in the preparation of the project interim report. Project interim report is due within during **Week 12**. The written progress report can serve as a way of documenting all the team's efforts have been done so far. Project interim report should present appropriate details on the following topics (please note that other than Title, Team members, and Conclusion sections, order does not need to necessarily be in the order seen below):
+
+* Project title page (including project title and team members).
+* Project Description.
+ 	 * Project goal & social problem addressed.
+	 * Project data & access to data.
+*	Did your data set change? If so, why?
+*	Have you decided to do a different analysis than what was mentioned in your proposal? If so, Why?
+*	Actions taken (data importing, cleaning, reshaping, exploring, visualizing etc) so far.
+*	Preliminary results.
+*	Planned future work (until final report).
+*	Conclusion.
+*	References.
+
+
+**Cautionary notes**: 
+1) You should download `R Project` on `GitHub` to your local computer, do the changes as needed, delete all the files you have not used to produce your proposal, then render the `.Rmd` file to `.pdf` and finally commit and push all the required files (including `.Rmd` files) by
+December 20, 2021  18:00 via [GitHub Classroom of MAT381E_Fall21 organization](https://github.com/MAT381E_Fall21).
+2) Project interim reports will not be accepted after deadline. 
+3) I will send a group-based GitHub classroom link now. This implies that I can explicitly see how your project evolves over time and who contributes what part of the project. For that reason, commit and push work frequently!..
+
+
